@@ -1,0 +1,233 @@
+Label,name,code,region,sub_region,_pos,lat,lng,Abb,1995,2000,2005,2010,2015
+0,Afghanistan,4,Asia,Southern Asia,"array([1.83174148, 1.86242262])",33.93911,67.709953,AFG,0.0,10.0,1.0,0.0,0.0
+1,Albania,8,Europe,Southern Europe,"array([1.89105956, 2.05459683])",41.153332,20.168331,ALB,1.0,4.0,2.0,1.0,1.0
+2,Algeria,12,Africa,Northern Africa,"array([1.90130528, 1.98917661])",28.033886,1.659626,DZA,1.0,4.0,2.0,1.0,3.0
+3,American Samoa,16,Oceania,Polynesia,"array([1.97167436, 2.13972604])",-14.270972,-170.132217,ASM,3.0,7.0,5.0,2.0,3.0
+4,Andorra,20,Europe,Southern Europe,"array([1.70167317, 1.89743272])",42.546245,1.601554,AND,1.0,4.0,2.0,1.0,3.0
+5,Angola,24,Africa,Middle Africa,"array([1.9465887, 1.9502161])",-11.202692,17.873887,AGO,4.0,7.0,8.0,4.0,4.0
+6,Anguilla,660,Latin America and the Caribbean,Caribbean,"array([1.6351819 , 1.94586471])",18.220554,-63.068615,AIA,3.0,3.0,5.0,1.0,3.0
+7,Antigua and Barbuda,28,Latin America and the Caribbean,Caribbean,"array([1.7185836 , 2.01145937])",17.060816,-61.796428,ATG,5.0,10.0,9.0,3.0,1.0
+8,Argentina,32,Latin America and the Caribbean,South America,"array([1.78741413, 1.9813161 ])",-38.416097,-63.616672,ARG,1.0,4.0,2.0,1.0,3.0
+9,Armenia,51,Asia,Western Asia,"array([1.77097526, 1.86287605])",40.069099,45.038189,ARM,6.0,2.0,5.0,5.0,5.0
+10,Aruba,533,Latin America and the Caribbean,Caribbean,"array([1.67274657, 1.99450001])",12.52111,-69.968338,ABW,3.0,3.0,5.0,1.0,3.0
+11,Australia,36,Oceania,Australia and New Zealand,"array([1.84918437, 2.00546947])",-25.274398,133.775136,AUS,3.0,7.0,0.0,3.0,3.0
+12,Austria,40,Europe,Western Europe,"array([1.83979734, 1.9617719 ])",47.516231,14.550072,AUT,1.0,4.0,5.0,2.0,3.0
+13,Azerbaijan,31,Asia,Western Asia,"array([1.77487777, 1.82943961])",40.143105,47.576927,AZE,6.0,2.0,5.0,5.0,5.0
+14,Bahamas,44,Latin America and the Caribbean,Caribbean,"array([1.73975651, 1.97967049])",25.03428,-77.39628,BHS,3.0,11.0,9.0,3.0,1.0
+15,Bahrain,48,Asia,Western Asia,"array([1.92645288, 1.95643674])",25.930414,50.637772,BHR,5.0,10.0,1.0,3.0,0.0
+16,Bangladesh,50,Asia,Southern Asia,"array([1.86621049, 2.05299172])",23.684994,90.356331,BGD,5.0,10.0,9.0,0.0,0.0
+17,Barbados,52,Latin America and the Caribbean,Caribbean,"array([1.71345384, 2.05299602])",13.193887,-59.543198,BRB,3.0,11.0,3.0,3.0,1.0
+18,Belarus,112,Europe,Eastern Europe,"array([1.78801017, 1.88038013])",53.709807,27.953389,BLR,6.0,2.0,5.0,2.0,5.0
+19,Belgium,56,Europe,Western Europe,"array([1.86513634, 1.95633179])",50.503887,4.469936,BEL,1.0,4.0,5.0,1.0,3.0
+20,Belize,84,Latin America and the Caribbean,Central America,"array([1.6929719 , 2.01189604])",17.189877,-88.49765,BLZ,3.0,11.0,9.0,3.0,1.0
+21,Benin,204,Africa,Western Africa,"array([1.93530374, 1.84289563])",9.30769,2.315834,BEN,8.0,11.0,4.0,7.0,6.0
+22,Bermuda,60,Northern America,South America,"array([1.76429943, 2.06958287])",32.321384,-64.75737,BMU,3.0,3.0,3.0,7.0,3.0
+23,Bhutan,64,Asia,Southern Asia,"array([1.82273671, 2.10040382])",27.514162,90.433601,BTN,5.0,10.0,9.0,0.0,0.0
+24,Bolivia (Plurinational State of),68,Latin America and the Caribbean,South America,"array([1.80487629, 1.9795185 ])",-16.290154,-63.588653,BOL,1.0,4.0,2.0,1.0,3.0
+25,"Bonaire, Sint Eustatius and Saba",535,Latin America and the Caribbean,Caribbean,"array([1.68468075, 2.06862525])",12.1784,68.2385,BES,3.0,3.0,5.0,1.0,3.0
+26,Bosnia and Herzegovina,70,Europe,Southern Europe,"array([1.91284333, 2.01372877])",43.915886,17.679076,BIH,1.0,4.0,5.0,2.0,3.0
+27,Botswana,72,Africa,Southern Africa,"array([1.95382079, 2.01142603])",-22.328474,24.684866,BWA,7.0,7.0,3.0,7.0,4.0
+28,Brazil,76,Latin America and the Caribbean,South America,"array([1.79691048, 1.96465094])",-14.235004,-51.92528,BRA,3.0,11.0,2.0,1.0,3.0
+29,British Virgin Islands,92,Latin America and the Caribbean,Caribbean,"array([1.65097584, 2.0362951 ])",18.420695,-64.639968,VGB,3.0,3.0,5.0,1.0,3.0
+30,Brunei Darussalam,96,Asia,South-Eastern Asia,"array([1.87540877, 2.10162475])",4.535277,114.727669,BRN,5.0,10.0,9.0,0.0,3.0
+31,Bulgaria,100,Europe,Eastern Europe,"array([1.8386259 , 1.94852143])",42.733883,25.48583,BGR,1.0,4.0,2.0,1.0,3.0
+32,Burkina Faso,854,Africa,Western Africa,"array([1.8428376 , 1.80209088])",12.238333,-1.561593,BFA,8.0,5.0,4.0,7.0,6.0
+33,Burundi,108,Africa,Eastern Africa,"array([1.99418069, 1.94910222])",-3.373056,29.918886,BDI,4.0,8.0,8.0,4.0,4.0
+34,Cabo Verde,132,Africa,Western Africa,"array([1.88230355, 1.89706555])",16.002082,-24.013197,CPV,3.0,4.0,2.0,1.0,3.0
+35,Cambodia,116,Asia,South-Eastern Asia,"array([1.86276584, 2.07425401])",12.565679,104.990963,KHM,9.0,6.0,6.0,8.0,8.0
+36,Cameroon,120,Africa,Middle Africa,"array([1.90366504, 1.87706999])",7.369722,12.354722,CMR,10.0,4.0,7.0,7.0,4.0
+37,Canada,124,Northern America,South America,"array([1.80817934, 1.99441469])",56.130366,-106.346771,CAN,3.0,3.0,9.0,3.0,1.0
+38,Cayman Islands,136,Latin America and the Caribbean,Caribbean,"array([1.75736157, 2.04999066])",19.513469,-80.566956,CYM,3.0,3.0,3.0,3.0,3.0
+39,Central African Republic,140,Africa,Middle Africa,"array([1.85007821, 1.84545705])",6.611111,20.939444,CAF,4.0,8.0,7.0,7.0,4.0
+40,Chad,148,Africa,Middle Africa,"array([1.89290505, 1.81754963])",15.454166,18.732207,TCD,10.0,1.0,7.0,4.0,2.0
+41,Channel Islands,830,Europe,Northern Europe,"array([1.83638439, 2.22189626])",19.333,81.217,CIN,3.0,3.0,3.0,7.0,3.0
+42,Chile,152,Latin America and the Caribbean,South America,"array([1.81695556, 1.9859948 ])",-35.675147,-71.542969,CHL,3.0,11.0,2.0,1.0,3.0
+43,China,156,Asia,Eastern Asia,"array([1.81634823, 2.02608907])",35.86166,104.195397,CHN,3.0,3.0,0.0,3.0,1.0
+44,"China, Hong Kong Special Administrative Region",344,Asia,Eastern Asia,"array([1.80288136, 2.0861877 ])",22.396428,114.109497,HKG,3.0,3.0,0.0,3.0,1.0
+45,"China, Macao Special Administrative Region",446,Asia,Eastern Asia,"array([1.77593072, 2.15239029])",22.198745,113.543873,MAC,,3.0,,,
+46,Colombia,170,Latin America and the Caribbean,South America,"array([1.77265212, 1.995916  ])",4.570868,-74.297333,COL,3.0,11.0,2.0,1.0,1.0
+47,Comoros,174,Africa,Eastern Africa,"array([1.85953241, 2.13381899])",-11.875001,43.872219,COM,1.0,4.0,2.0,1.0,3.0
+48,Congo,178,Africa,Middle Africa,"array([1.92557436, 1.8872231 ])",-4.038333,21.758664,COG,4.0,8.0,8.0,4.0,4.0
+49,Cook Islands,184,Oceania,Polynesia,"array([2.02192033, 2.04023565])",-21.236736,-159.777671,COK,3.0,7.0,0.0,3.0,3.0
+50,Costa Rica,188,Latin America and the Caribbean,Central America,"array([1.79249528, 1.99744348])",9.748917,-83.753428,CRI,3.0,11.0,10.0,9.0,1.0
+51,Côte d'Ivoire,384,Africa,Western Africa,"array([1.93302742, 1.86678355])",7.539989,-5.54708,CIV,8.0,5.0,4.0,7.0,6.0
+52,Croatia,191,Europe,Southern Europe,"array([1.88729378, 1.96674039])",45.1,15.2,HRV,1.0,4.0,5.0,2.0,3.0
+53,Cuba,192,Latin America and the Caribbean,Caribbean,"array([1.76310321, 2.01329857])",21.521757,-77.781167,CUB,3.0,11.0,9.0,3.0,1.0
+54,Curaçao,531,Latin America and the Caribbean,Caribbean,"array([1.67602435, 2.04462783])",12.16957,-68.990021,CUW,1.0,4.0,5.0,1.0,3.0
+55,Cyprus,196,Asia,Western Asia,"array([1.8602191 , 1.93974762])",35.126413,33.429859,CYP,1.0,4.0,5.0,7.0,3.0
+56,Czech Republic,203,Europe,Eastern Europe,"array([1.86785484, 1.97305001])",49.817492,15.472962,CZE,6.0,2.0,5.0,2.0,3.0
+57,Democratic People's Republic of Korea,408,Asia,Eastern Asia,"array([1.76989731, 2.03339778])",40.339852,127.510093,PRK,6.0,2.0,3.0,7.0,5.0
+58,Democratic Republic of the Congo,180,Africa,Middle Africa,"array([1.95870703, 1.91501136])",-0.228021,15.827659,COD,4.0,8.0,8.0,4.0,4.0
+59,Denmark,208,Europe,Northern Europe,"array([1.83069359, 1.97201271])",56.26392,9.501785,DNK,3.0,4.0,3.0,7.0,3.0
+60,Djibouti,262,Africa,Eastern Africa,"array([1.81580121, 1.80983071])",11.825138,42.590275,DJI,10.0,1.0,2.0,3.0,2.0
+61,Dominica,212,Latin America and the Caribbean,Caribbean,"array([1.70511143, 2.0320297 ])",15.414999,-61.370976,DMA,3.0,3.0,9.0,3.0,1.0
+62,Dominican Republic,214,Latin America and the Caribbean,Caribbean,"array([1.75718074, 1.98982508])",18.735693,-70.162651,DOM,3.0,11.0,9.0,3.0,1.0
+63,Ecuador,218,Latin America and the Caribbean,South America,"array([1.76249727, 1.9482164 ])",-1.831239,-78.183406,ECU,3.0,11.0,2.0,1.0,3.0
+64,Egypt,818,Africa,Northern Africa,"array([1.85439876, 1.92223817])",26.820553,30.802498,EGY,5.0,9.0,1.0,0.0,0.0
+65,El Salvador,222,Latin America and the Caribbean,Central America,"array([1.73101409, 1.9602583 ])",13.794185,-88.89653,SLV,3.0,11.0,9.0,3.0,1.0
+66,Equatorial Guinea,226,Africa,Middle Africa,"array([2.00276915, 1.91525274])",1.650801,10.267895,GNQ,10.0,4.0,2.0,7.0,3.0
+67,Eritrea,232,Africa,Eastern Africa,"array([1.9686361 , 1.93768343])",15.179384,39.782334,ERI,10.0,1.0,7.0,4.0,2.0
+68,Estonia,233,Europe,Northern Europe,"array([1.80039032, 1.94975273])",58.595272,25.013607,EST,6.0,2.0,3.0,7.0,5.0
+69,Ethiopia,231,Africa,Eastern Africa,"array([1.92490949, 1.93707557])",9.145,40.489673,ETH,10.0,1.0,8.0,4.0,2.0
+70,Faeroe Islands,234,Europe,Northern Europe,"array([1.88507166, 2.08124501])",61.892635,-6.911806,FRO,3.0,4.0,3.0,7.0,3.0
+71,Falkland Islands (Malvinas),238,Latin America and the Caribbean,South America,"array([1.75665057, 2.18198301])",-51.796253,-59.523613,FLK,3.0,3.0,3.0,7.0,3.0
+72,Fiji,242,Oceania,Melanesia,"array([1.95048546, 2.05186449])",-16.578193,179.414413,FJI,3.0,7.0,0.0,3.0,3.0
+73,Finland,246,Europe,Northern Europe,"array([1.85276316, 1.96646825])",61.92411,25.748151,FIN,6.0,4.0,3.0,7.0,5.0
+74,France,250,Europe,Western Europe,"array([1.83726869, 1.99911738])",46.227638,2.213749,FRA,1.0,4.0,2.0,1.0,3.0
+75,French Guiana,254,Latin America and the Caribbean,South America,"array([1.69222913, 2.09639663])",3.933889,-53.125782,GUF,1.0,4.0,5.0,3.0,3.0
+76,French Polynesia,258,Oceania,Polynesia,"array([1.89018401, 2.126719  ])",-17.679742,-149.406843,PYF,11.0,12.0,2.0,11.0,3.0
+77,Gabon,266,Africa,Middle Africa,"array([1.93673671, 1.90745467])",-0.803689,11.609444,GAB,10.0,4.0,4.0,7.0,3.0
+78,Gambia,270,Africa,Western Africa,"array([1.86830996, 1.80561622])",13.443182,-15.310139,GMB,8.0,5.0,2.0,1.0,3.0
+79,Georgia,268,Asia,Western Asia,"array([1.72260057, 1.89020488])",42.315407,43.356892,GEO,6.0,2.0,5.0,2.0,5.0
+80,Germany,276,Europe,Western Europe,"array([1.81170512, 1.93635419])",51.165691,10.451526,DEU,6.0,2.0,5.0,2.0,3.0
+81,Ghana,288,Africa,Western Africa,"array([1.89124081, 1.91463084])",7.946527,-1.023194,GHA,8.0,5.0,4.0,7.0,6.0
+82,Gibraltar,292,Europe,Southern Europe,"array([1.78286954, 1.79556913])",36.137741,-5.345374,GIB,3.0,3.0,3.0,7.0,3.0
+83,Greece,300,Europe,Southern Europe,"array([1.83110205, 1.98691881])",39.074208,21.824312,GRC,1.0,4.0,5.0,2.0,3.0
+84,Greenland,304,Northern America,South America,"array([1.74804874, 2.09326915])",71.706936,-42.604303,GRL,3.0,4.0,3.0,7.0,3.0
+85,Grenada,308,Latin America and the Caribbean,Caribbean,"array([1.66818779, 1.95204486])",12.262776,-61.604171,GRD,3.0,11.0,9.0,3.0,1.0
+86,Guadeloupe,312,Latin America and the Caribbean,Caribbean,"array([1.71728018, 2.08560055])",16.995971,-62.067641,GLP,1.0,4.0,5.0,1.0,3.0
+87,Guam,316,Oceania,Micronesia,"array([1.80210286, 2.17820619])",13.444304,144.793731,GUM,3.0,11.0,11.0,6.0,3.0
+88,Guatemala,320,Latin America and the Caribbean,Central America,"array([1.74570178, 2.00937254])",15.783471,-90.230759,GTM,3.0,11.0,9.0,3.0,1.0
+89,Guinea,324,Africa,Western Africa,"array([1.85236838, 1.86381327])",9.945587,-9.696645,GIN,2.0,5.0,4.0,7.0,6.0
+90,Guinea-Bissau,624,Africa,Western Africa,"array([1.91610526, 1.82312105])",11.803749,-15.180413,GNB,8.0,5.0,2.0,1.0,3.0
+91,Guyana,328,Latin America and the Caribbean,South America,"array([1.68801649, 1.97163573])",4.860416,-58.93018,GUY,3.0,11.0,9.0,3.0,1.0
+92,Haiti,332,Latin America and the Caribbean,Caribbean,"array([1.70726157, 1.96016196])",18.971187,-72.285215,HTI,3.0,11.0,9.0,3.0,1.0
+93,Holy See,336,Europe,Southern Europe,"array([1.68731748, 1.77278962])",41.902916,12.453389,VAT,,,2.0,1.0,
+94,Honduras,340,Latin America and the Caribbean,Central America,"array([1.7218501 , 1.94312049])",15.199999,-86.241905,HND,3.0,11.0,9.0,3.0,1.0
+95,Hungary,348,Europe,Eastern Europe,"array([1.83259406, 1.92171156])",47.162494,19.503304,HUN,6.0,2.0,5.0,2.0,3.0
+96,Iceland,352,Europe,Northern Europe,"array([1.84352991, 1.97358249])",64.963051,-19.020835,ISL,3.0,4.0,3.0,7.0,3.0
+97,India,356,Asia,Southern Asia,"array([1.8306832 , 2.02026528])",20.593684,78.96288,IND,5.0,10.0,9.0,0.0,0.0
+98,Indonesia,360,Asia,South-Eastern Asia,"array([1.82751849, 2.0505267 ])",-0.789275,113.921327,IDN,5.0,3.0,9.0,0.0,0.0
+99,Iran (Islamic Republic of),364,Asia,Southern Asia,"array([1.78486421, 1.89879802])",32.427908,53.688046,IRN,0.0,0.0,1.0,0.0,0.0
+100,Iraq,368,Asia,Western Asia,"array([1.89757756, 1.93435699])",33.223191,43.679291,IRQ,0.0,0.0,1.0,10.0,7.0
+101,Ireland,372,Europe,Northern Europe,"array([1.84423076, 1.98925671])",53.41291,-8.24389,IRL,3.0,2.0,3.0,7.0,3.0
+102,Isle of Man,833,Europe,Northern Europe,"array([1.90123094, 2.18534821])",54.236107,-4.548056,IMN,3.0,3.0,3.0,7.0,3.0
+103,Israel,376,Asia,Western Asia,"array([1.76655309, 1.92871435])",31.046051,34.851612,ISR,1.0,11.0,1.0,2.0,3.0
+104,Italy,380,Europe,Southern Europe,"array([1.85659895, 1.98213119])",41.87194,12.56738,ITA,1.0,4.0,2.0,1.0,3.0
+105,Jamaica,388,Latin America and the Caribbean,Caribbean,"array([1.69946669, 1.99335886])",18.109581,-77.297508,JAM,3.0,11.0,9.0,3.0,1.0
+106,Japan,392,Asia,Eastern Asia,"array([1.81098918, 2.04208103])",36.204824,138.252924,JPN,3.0,3.0,0.0,3.0,1.0
+107,Jordan,400,Asia,Western Asia,"array([1.87836486, 1.93368856])",30.585164,36.238414,JOR,5.0,9.0,1.0,10.0,7.0
+108,Kazakhstan,398,Asia,Central Asia,"array([1.75499183, 1.87702964])",48.019573,66.923684,KAZ,6.0,2.0,5.0,2.0,5.0
+109,Kenya,404,Africa,Eastern Africa,"array([1.94474334, 1.98251715])",-0.023559,37.906193,KEN,10.0,1.0,8.0,4.0,2.0
+110,Kiribati,296,Oceania,Micronesia,"array([1.98781975, 2.08884566])",-3.370417,-168.734039,KIR,3.0,7.0,0.0,3.0,3.0
+111,Kuwait,414,Asia,Western Asia,"array([1.87634793, 1.88479147])",29.31166,47.481766,KWT,5.0,9.0,9.0,0.0,0.0
+112,Kyrgyzstan,417,Asia,Central Asia,"array([1.73332032, 1.87168287])",41.20438,74.766098,KGZ,6.0,2.0,5.0,2.0,5.0
+113,Lao People's Democratic Republic,418,Asia,South-Eastern Asia,"array([1.77789815, 2.09330411])",19.85627,102.495496,LAO,9.0,6.0,6.0,8.0,8.0
+114,Latvia,428,Europe,Northern Europe,"array([1.81697774, 1.91983731])",56.879635,24.603189,LVA,6.0,2.0,3.0,2.0,5.0
+115,Lebanon,422,Asia,Western Asia,"array([1.78187815, 1.92153111])",33.854721,35.862285,LBN,5.0,9.0,1.0,0.0,7.0
+116,Lesotho,426,Africa,Southern Africa,"array([1.99093658, 2.00201272])",-29.609988,28.233608,LSO,7.0,7.0,3.0,7.0,4.0
+117,Liberia,430,Africa,Western Africa,"array([1.8905502 , 1.86264086])",6.428055,-9.429499,LBR,2.0,5.0,4.0,7.0,6.0
+118,Libya,434,Africa,Northern Africa,"array([1.86082718, 1.90332594])",26.3351,17.228331,LBY,5.0,1.0,2.0,1.0,3.0
+119,Liechtenstein,438,Europe,Western Europe,"array([1.80199893, 1.8884909 ])",47.166,9.555373,LIE,1.0,4.0,2.0,1.0,3.0
+120,Lithuania,440,Europe,Northern Europe,"array([1.76231228, 1.91316052])",55.169438,23.881275,LTU,6.0,2.0,3.0,7.0,3.0
+121,Luxembourg,442,Europe,Western Europe,"array([1.86717091, 2.01255435])",49.815273,6.129583,LUX,3.0,4.0,5.0,2.0,3.0
+122,Madagascar,450,Africa,Eastern Africa,"array([1.84124289, 2.10953587])",-18.766947,46.869107,MDG,1.0,4.0,2.0,1.0,3.0
+123,Malawi,454,Africa,Eastern Africa,"array([1.9775754 , 1.90287747])",-13.254308,34.301525,MWI,7.0,7.0,3.0,7.0,4.0
+124,Malaysia,458,Asia,South-Eastern Asia,"array([1.83272346, 2.07159775])",4.210484,101.975766,MYS,5.0,3.0,9.0,0.0,0.0
+125,Maldives,462,Asia,Southern Asia,"array([1.74560082, 2.03309401])",3.202778,73.22068,MDV,5.0,10.0,9.0,0.0,3.0
+126,Mali,466,Africa,Western Africa,"array([1.91312593, 1.85400889])",17.570692,-3.996166,MLI,8.0,5.0,4.0,7.0,6.0
+127,Malta,470,Europe,Southern Europe,"array([1.8731923 , 1.91643948])",35.937496,14.375416,MLT,3.0,7.0,3.0,3.0,3.0
+128,Marshall Islands,584,Oceania,Micronesia,"array([1.941944 , 2.1622961])",7.131474,171.184478,MHL,3.0,11.0,9.0,3.0,1.0
+129,Martinique,474,Latin America and the Caribbean,Caribbean,"array([1.71857503, 2.11821799])",14.641528,-61.024174,MTQ,1.0,4.0,5.0,1.0,3.0
+130,Mauritania,478,Africa,Western Africa,"array([1.87374187, 1.84157767])",21.00789,-10.940835,MRT,8.0,5.0,4.0,7.0,6.0
+131,Mauritius,480,Africa,Eastern Africa,"array([1.85049466, 2.09079935])",-20.348404,57.552152,MUS,1.0,4.0,3.0,7.0,3.0
+132,Mayotte,175,Africa,Eastern Africa,"array([1.74096291, 2.25243228])",-12.8275,45.166244,MYT,1.0,4.0,2.0,1.0,3.0
+133,Mexico,484,Latin America and the Caribbean,Central America,"array([1.77517982, 1.96106444])",23.634501,-102.552784,MEX,3.0,11.0,9.0,3.0,1.0
+134,Micronesia (Federated States of),583,Oceania,Micronesia,"array([1.9026869 , 2.15828135])",7.425554,150.550812,FSM,3.0,11.0,11.0,6.0,1.0
+135,Monaco,492,Europe,Western Europe,"array([1.79884571, 2.11263097])",43.750298,7.412841,MCO,1.0,4.0,2.0,1.0,3.0
+136,Mongolia,496,Asia,Eastern Asia,"array([1.78283618, 2.04856973])",46.862496,103.846656,MNG,6.0,3.0,0.0,3.0,3.0
+137,Montenegro,499,Europe,Southern Europe,"array([1.90366764, 2.03160676])",42.708678,19.37439,MNE,1.0,4.0,5.0,2.0,3.0
+138,Montserrat,500,Latin America and the Caribbean,Caribbean,"array([1.61576148, 1.98555035])",16.742498,-62.187366,MSR,3.0,3.0,3.0,7.0,3.0
+139,Morocco,504,Africa,Northern Africa,"array([1.85148225, 1.8849687 ])",31.791702,-7.09262,MAR,1.0,4.0,2.0,1.0,3.0
+140,Mozambique,508,Africa,Eastern Africa,"array([1.96186846, 1.9867689 ])",-18.665695,35.529562,MOZ,7.0,7.0,3.0,7.0,4.0
+141,Myanmar,104,Asia,South-Eastern Asia,"array([1.7298918 , 1.99903597])",21.913965,95.956223,MMR,9.0,6.0,6.0,8.0,8.0
+142,Namibia,516,Africa,Southern Africa,"array([1.90470076, 1.97116912])",-22.95764,18.49041,NAM,7.0,7.0,3.0,7.0,4.0
+143,Nauru,520,Oceania,Micronesia,"array([2.0220881 , 2.00239305])",-0.522778,166.931503,NRU,3.0,7.0,0.0,3.0,3.0
+144,Nepal,524,Asia,Southern Asia,"array([1.91706089, 2.0511114 ])",28.394857,84.124008,NPL,5.0,10.0,9.0,0.0,0.0
+145,Netherlands,528,Europe,Western Europe,"array([1.81625778, 1.96901126])",52.132633,5.291266,NLD,1.0,4.0,5.0,1.0,3.0
+146,New Caledonia,540,Oceania,Melanesia,"array([1.87008957, 2.15718837])",-20.904305,165.618042,NCL,11.0,12.0,2.0,11.0,3.0
+147,New Zealand,554,Oceania,Australia and New Zealand,"array([1.87564489, 2.03619492])",-40.900557,174.885971,NZL,3.0,7.0,0.0,3.0,3.0
+148,Nicaragua,558,Latin America and the Caribbean,Central America,"array([1.74615005, 1.93780236])",12.865416,-85.207229,NIC,3.0,11.0,10.0,9.0,1.0
+149,Niger,562,Africa,Western Africa,"array([1.84852129, 1.82356369])",17.607789,8.081666,NER,8.0,5.0,4.0,7.0,6.0
+150,Nigeria,566,Africa,Western Africa,"array([1.83303626, 1.88668369])",9.081999,8.675277,NGA,8.0,11.0,4.0,7.0,6.0
+151,Niue,570,Oceania,Polynesia,"array([2.03848545, 2.09860209])",-19.054445,-169.867233,NIU,3.0,7.0,0.0,3.0,3.0
+152,Northern Mariana Islands,580,Oceania,Micronesia,"array([1.86476338, 2.19423046])",17.33083,145.38469,MNP,3.0,11.0,5.0,3.0,3.0
+153,Norway,578,Europe,Northern Europe,"array([1.82229402, 1.94312735])",60.472024,8.468946,NOR,3.0,4.0,2.0,7.0,3.0
+154,Oman,512,Asia,Western Asia,"array([1.9344602 , 2.03069096])",21.512583,55.923255,OMN,5.0,10.0,0.0,3.0,0.0
+155,Pakistan,586,Asia,Southern Asia,"array([1.84295684, 2.03866266])",30.375321,69.345116,PAK,0.0,10.0,1.0,0.0,0.0
+156,Palau,585,Oceania,Micronesia,"array([1.83456993, 2.16691033])",7.51498,134.58252,PLW,3.0,3.0,9.0,3.0,3.0
+157,Panama,591,Latin America and the Caribbean,Central America,"array([1.75176782, 1.96583777])",8.537981,-80.782127,PAN,3.0,11.0,10.0,9.0,1.0
+158,Papua New Guinea,598,Oceania,Melanesia,"array([1.92910798, 2.07257518])",-6.314993,143.95555,PNG,3.0,7.0,0.0,3.0,3.0
+159,Paraguay,600,Latin America and the Caribbean,South America,"array([1.72886587, 1.91793532])",-23.442503,-58.443832,PRY,1.0,4.0,2.0,1.0,3.0
+160,Peru,604,Latin America and the Caribbean,South America,"array([1.7837018 , 2.01526684])",-9.189967,-75.015152,PER,3.0,11.0,2.0,1.0,3.0
+161,Philippines,608,Asia,South-Eastern Asia,"array([1.85068909, 2.02478202])",12.879721,121.774017,PHL,3.0,3.0,9.0,3.0,0.0
+162,Poland,616,Europe,Eastern Europe,"array([1.79637776, 1.93383395])",51.919438,19.145136,POL,6.0,2.0,5.0,2.0,3.0
+163,Portugal,620,Europe,Southern Europe,"array([1.81273663, 1.95665913])",39.399872,-8.224454,PRT,3.0,4.0,2.0,1.0,3.0
+164,Puerto Rico,630,Latin America and the Caribbean,Caribbean,"array([1.73602032, 2.05760915])",18.220833,-66.590149,PRI,3.0,11.0,9.0,3.0,1.0
+165,Qatar,634,Asia,Western Asia,"array([1.90491288, 1.89450249])",25.354826,51.183884,QAT,5.0,10.0,9.0,0.0,0.0
+166,Republic of Korea,410,Asia,Eastern Asia,"array([1.79586313, 2.02918164])",35.907757,127.766922,KOR,3.0,3.0,0.0,3.0,1.0
+167,Republic of Moldova,498,Europe,Eastern Europe,"array([1.78967327, 1.84988517])",47.411631,28.369885,MDA,6.0,2.0,2.0,1.0,3.0
+168,Réunion,638,Africa,Eastern Africa,"array([1.70900302, 2.16470138])",-21.115141,55.536384,REU,1.0,4.0,2.0,1.0,3.0
+169,Romania,642,Europe,Eastern Europe,"array([1.79857146, 1.91131477])",45.943161,24.96676,ROU,6.0,2.0,2.0,1.0,3.0
+170,Russian Federation,643,Europe,Eastern Europe,"array([1.84715437, 1.93598275])",61.52401,105.318756,RUS,6.0,2.0,5.0,2.0,5.0
+171,Rwanda,646,Africa,Eastern Africa,"array([1.9849483 , 1.97177015])",-1.940278,29.873888,RWA,4.0,8.0,8.0,4.0,4.0
+172,Saint Helena,654,Africa,Western Africa,"array([1.7398048 , 2.15519043])",-24.143474,-10.030696,SHN,3.0,3.0,3.0,,3.0
+173,Saint Kitts and Nevis,659,Latin America and the Caribbean,Caribbean,"array([1.65163867, 1.98015328])",17.357822,-62.782998,KNA,3.0,3.0,9.0,3.0,1.0
+174,Saint Lucia,662,Latin America and the Caribbean,Caribbean,"array([1.72398839, 2.03298087])",13.909444,-60.978893,LCA,3.0,3.0,2.0,3.0,1.0
+175,Saint Pierre and Miquelon,666,Northern America,South America,"array([1.65862803, 2.11953084])",46.941936,-56.27111,SPM,3.0,,9.0,3.0,1.0
+176,Saint Vincent and the Grenadines,670,Latin America and the Caribbean,Caribbean,"array([1.66598148, 2.01853746])",12.984305,-61.287228,VCT,3.0,3.0,9.0,3.0,1.0
+177,Samoa,882,Oceania,Polynesia,"array([1.96396296, 2.07471436])",-13.759029,-172.104629,WSM,3.0,7.0,0.0,3.0,3.0
+178,San Marino,674,Europe,Southern Europe,"array([1.76441423, 2.11452087])",43.94236,12.457777,SMR,1.0,4.0,2.0,1.0,3.0
+179,Sao Tome and Principe,678,Africa,Middle Africa,"array([1.97694391, 1.864971  ])",0.1864,6.6131,STP,3.0,4.0,2.0,4.0,4.0
+180,Saudi Arabia,682,Asia,Western Asia,"array([1.90544029, 1.95266798])",23.885942,45.079162,SAU,5.0,9.0,9.0,0.0,0.0
+181,Senegal,686,Africa,Western Africa,"array([1.87134643, 1.86102229])",14.497401,-14.452362,SEN,8.0,5.0,2.0,1.0,3.0
+182,Serbia,688,Europe,Southern Europe,"array([1.81999441, 1.90272337])",44.016521,21.005859,SRB,1.0,4.0,5.0,2.0,3.0
+183,Seychelles,690,Africa,Eastern Africa,"array([1.90813019, 2.07586156])",-4.679574,55.491977,SYC,3.0,3.0,3.0,7.0,4.0
+184,Sierra Leone,694,Africa,Western Africa,"array([1.82475954, 1.84199466])",8.460555,-11.779889,SLE,2.0,5.0,4.0,7.0,6.0
+185,Singapore,702,Asia,South-Eastern Asia,"array([1.79033713, 2.06852844])",1.352083,103.819836,SGP,3.0,3.0,9.0,3.0,1.0
+186,Sint Maarten (Dutch part),534,Latin America and the Caribbean,Caribbean,"array([1.64616737, 2.06709499])",18.0425,63.0548,SXM,1.0,4.0,5.0,1.0,3.0
+187,Slovakia,703,Europe,Eastern Europe,"array([1.88209148, 1.94730422])",48.669026,19.699024,SVK,6.0,2.0,5.0,2.0,3.0
+188,Slovenia,705,Europe,Southern Europe,"array([1.84023639, 1.90512052])",46.151241,14.995463,SVN,1.0,4.0,5.0,2.0,3.0
+189,Solomon Islands,90,Oceania,Melanesia,"array([1.9280307 , 2.10515255])",-9.64571,160.156194,SLB,3.0,7.0,0.0,3.0,3.0
+190,Somalia,706,Africa,Eastern Africa,"array([1.96174791, 1.96206361])",5.152149,46.199616,SOM,10.0,1.0,8.0,4.0,2.0
+191,South Africa,710,Africa,Southern Africa,"array([1.86743615, 1.99315651])",-30.559482,22.937506,ZAF,7.0,7.0,3.0,7.0,4.0
+192,South Sudan,728,Africa,Eastern Africa,"array([1.97553798, 1.82493973])",12.862807,30.217636,SSD,10.0,1.0,8.0,4.0,2.0
+193,Spain,724,Europe,Southern Europe,"array([1.82532911, 1.95781598])",40.463667,-3.74922,ESP,1.0,4.0,2.0,1.0,3.0
+194,Sri Lanka,144,Asia,Southern Asia,"array([1.8923741 , 2.00828361])",7.873054,80.771797,LKA,5.0,10.0,9.0,0.0,0.0
+195,State of Palestine,275,Asia,Western Asia,"array([1.8102233 , 1.85706657])",31.952162,35.233154,PSE,5.0,9.0,1.0,10.0,7.0
+196,Sudan,729,Africa,Northern Africa,"array([1.94596035, 1.89168026])",12.862807,30.217636,SDN,10.0,1.0,7.0,4.0,2.0
+197,Suriname,740,Latin America and the Caribbean,South America,"array([1.6861869 , 1.93619689])",3.919305,-56.027783,SUR,1.0,4.0,2.0,3.0,3.0
+198,Swaziland,748,Africa,Southern Africa,"array([1.975386  , 2.02804701])",-26.522503,31.465866,SWZ,7.0,7.0,3.0,7.0,4.0
+199,Sweden,752,Europe,Northern Europe,"array([1.85317359, 1.94973292])",60.128161,18.643501,SWE,3.0,4.0,3.0,7.0,3.0
+200,Switzerland,756,Europe,Western Europe,"array([1.83072719, 1.93786074])",46.818188,8.227512,CHE,1.0,4.0,2.0,1.0,3.0
+201,Syrian Arab Republic,760,Asia,Western Asia,"array([1.88496771, 1.98704986])",34.802075,38.996815,SYR,5.0,9.0,1.0,10.0,7.0
+202,Tajikistan,762,Asia,Central Asia,"array([1.74407089, 1.90236581])",38.861034,71.276093,TJK,6.0,2.0,5.0,2.0,5.0
+203,Thailand,764,Asia,South-Eastern Asia,"array([1.87985295, 2.0209636 ])",15.870032,100.992541,THA,9.0,6.0,6.0,8.0,8.0
+204,The former Yugoslav Republic of Macedonia,807,Europe,Southern Europe,"array([1.84960787, 2.05463276])",41.608635,21.745275,MKD,1.0,4.0,2.0,2.0,3.0
+205,Timor-Leste,626,Asia,South-Eastern Asia,"array([1.81660582, 2.13988155])",-8.874217,125.727539,TLS,5.0,3.0,9.0,0.0,0.0
+206,Togo,768,Africa,Western Africa,"array([1.89609277, 1.84192514])",8.619543,0.824782,TGO,8.0,5.0,4.0,7.0,6.0
+207,Tokelau,772,Oceania,Polynesia,"array([2.02820909, 2.15054121])",-8.967363,-171.855881,TKL,3.0,7.0,,3.0,3.0
+208,Tonga,776,Oceania,Polynesia,"array([1.95524617, 2.10343224])",-21.178986,-175.198242,TON,3.0,7.0,0.0,3.0,3.0
+209,Trinidad and Tobago,780,Latin America and the Caribbean,Caribbean,"array([1.71321215, 1.97875818])",10.691803,-61.222503,TTO,3.0,11.0,9.0,3.0,1.0
+210,Tunisia,788,Africa,Northern Africa,"array([1.91474195, 1.92539379])",33.886917,9.537499,TUN,1.0,4.0,2.0,1.0,3.0
+211,Turkey,792,Asia,Western Asia,"array([1.78695374, 1.94707489])",38.963745,35.243322,TUR,1.0,4.0,5.0,2.0,7.0
+212,Turkmenistan,795,Asia,Central Asia,"array([1.72990826, 1.84757894])",38.969719,59.556278,TKM,1.0,4.0,5.0,0.0,5.0
+213,Turks and Caicos Islands,796,Latin America and the Caribbean,Caribbean,"array([1.6418977 , 1.90318472])",21.694025,-71.797928,TCA,3.0,11.0,9.0,3.0,1.0
+214,Tuvalu,798,Oceania,Polynesia,"array([2.00627563, 2.06032156])",-7.109535,177.64933,TUV,3.0,7.0,5.0,2.0,3.0
+215,Uganda,800,Africa,Eastern Africa,"array([1.92423822, 1.99308056])",1.373333,32.290275,UGA,10.0,1.0,8.0,4.0,4.0
+216,Ukraine,804,Europe,Eastern Europe,"array([1.76667955, 1.89231088])",48.379433,31.16558,UKR,6.0,2.0,5.0,2.0,5.0
+217,United Arab Emirates,784,Asia,Western Asia,"array([1.91604615, 1.90777674])",23.424076,53.847818,ARE,5.0,10.0,9.0,0.0,0.0
+218,United Kingdom of Great Britain and Northern Ireland,826,Europe,Northern Europe,"array([1.82541709, 1.99995775])",55.378051,-3.435973,GBR,3.0,3.0,3.0,7.0,3.0
+219,United Republic of Tanzania,834,Africa,Eastern Africa,"array([1.93572981, 2.00962779])",-6.369028,34.888822,TZA,4.0,8.0,8.0,4.0,4.0
+220,United States of America,840,Northern America,South America,"array([1.81230261, 2.00776568])",37.09024,-95.712891,USA,3.0,11.0,9.0,3.0,1.0
+221,United States Virgin Islands,850,Latin America and the Caribbean,Caribbean,"array([1.62002091, 2.01975904])",18.335765,-64.896335,VIR,3.0,3.0,9.0,3.0,1.0
+222,Uruguay,858,Latin America and the Caribbean,South America,"array([1.71043192, 1.92204375])",-32.522779,-55.765835,URY,1.0,4.0,2.0,1.0,3.0
+223,Uzbekistan,860,Asia,Central Asia,"array([1.75435082, 1.84513691])",41.377491,64.585262,UZB,6.0,2.0,5.0,2.0,5.0
+224,Vanuatu,548,Oceania,Melanesia,"array([1.91927484, 2.12610019])",-15.376706,166.959158,VUT,11.0,12.0,2.0,11.0,3.0
+225,Venezuela (Bolivarian Republic of),862,Latin America and the Caribbean,South America,"array([1.77085992, 1.97756735])",6.42375,-66.58973,VEN,3.0,11.0,2.0,1.0,1.0
+226,Viet Nam,704,Asia,South-Eastern Asia,"array([1.80866105, 2.06338986])",14.058324,108.277199,VNM,3.0,11.0,9.0,3.0,1.0
+227,Wallis and Futuna Islands,876,Oceania,Polynesia,"array([1.79672158, 2.22175723])",-13.768752,-177.156097,WLF,11.0,12.0,2.0,11.0,3.0
+228,Western Sahara,732,Africa,Northern Africa,"array([2.01706011, 1.86488782])",24.215527,-12.885834,ESH,1.0,4.0,2.0,1.0,3.0
+229,Yemen,887,Asia,Western Asia,"array([1.92891113, 1.97069976])",15.552727,48.516388,YEM,5.0,10.0,9.0,0.0,0.0
+230,Zambia,894,Africa,Eastern Africa,"array([1.94272176, 1.93080904])",-13.133897,27.849332,ZMB,7.0,7.0,8.0,4.0,4.0
+231,Zimbabwe,716,Africa,Eastern Africa,"array([1.81745367, 1.87408624])",-19.015438,29.154857,ZWE,7.0,7.0,3.0,7.0,4.0
